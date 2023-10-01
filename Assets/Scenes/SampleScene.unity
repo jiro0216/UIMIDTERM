@@ -925,9 +925,9 @@ MonoBehaviour:
   Originalpos: {x: 0, y: 0}
   ReturnPos: {x: 0, y: 0}
   targetpos3: {x: 300, y: 0, z: 0}
-  targetpos1: {x: 300, y: 0, z: 0}
+  targetpos2: {x: 300, y: 0, z: 0}
   originalpos2: {x: 0, y: 0, z: 0}
-  returnpos: {x: -300, y: 0, z: 0}
+  returnpos2: {x: 0, y: 0, z: 0}
   targetpos4: {x: 0, y: -300, z: 0}
   originalpos3: {x: 0, y: 0, z: 0}
 --- !u!4 &769179992
